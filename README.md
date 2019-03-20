@@ -1,4 +1,4 @@
-Object Detection using DeepLearning Framework - Theano 
+Photo OCR Detection using DeepLearning Framework
 ======================================================
 
 # Table of Contents
@@ -6,20 +6,6 @@ Object Detection using DeepLearning Framework - Theano
 2. [Data](README.md#data)
 3. [Implementation](README.md#details-of-implementation)
 4. [Algorithms](README.md#Algorithms)
-
-
-## Problem Summary
-[Back to Table of Contents](README.md#table-of-contents)
-
-This project was part of my course work CIS730(Principles of Artificial Intellegience) in Fall 2015. This project implements supervised learning algorithms using Theano to recognize text from Unstructured Image and Natural Scenes.
-
-## Data
-[Back to Table of Contents](README.md#table-of-contents)
-
-Dataset used in the project was used from "Chars74K dataset" and "Kaggle CIFAR-10"
-
-## Implementation
-[Back to Table of Contents](README.md#table-of-contents)
 
 This project sets up a three stage pipeline for building an object chatacter recognition. 
 #### Stage 1: Pre process the input image and get the contour and image objects.
